@@ -54,5 +54,5 @@ https://raw.githubusercontent.com/justinlevinedotme/jal-kicad-pcm/main/repositor
 | [KiCAD JLCPCB tools](https://github.com/bouni/kicad-jlcpcb-tools) | Bouni | MIT |
 | [marbastlib](https://github.com/ebastler/marbastlib) | ebastler and Marble | CERN-OHL |
 
-_Last updated: **2026-05-04 08:51 UTC** • Packages: **2**_
+_Last updated: **2026-05-05 08:46 UTC** • Packages: **2**_
 <!-- AUTO-INDEX:END -->
